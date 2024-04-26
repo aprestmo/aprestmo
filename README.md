@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital designer and frontend developer (or <a href="https://blog.jim-nielsen.com/2022/the-case-for-design-engineers/">design engineer</a> maybe)
 -------------------------------
 
-*   🌍  I'm based in Oslo
+*   🌍  I'm based in Oslo, Norway
 *   ✉️  You can contact me at [aprestmo@gmail.com](mailto:aprestmo@gmail.com)
 *   🧠  I'm learning Astro
 *   I love CSS and semantic HTML
