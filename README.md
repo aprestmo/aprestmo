@@ -13,7 +13,7 @@ Digital designer and frontend developer (or <a href="https://blog.jim-nielsen.co
 
 ### Skills 
 
-I can work with the full Adobe Creative Suite. I have done print magazines in InDesign. Photoshop and Illustraor work. Animations and videos with After Effects and Premiere. But nowadays it is mostly digital designs I code the frontends of. Designs are more ofte than not done in Figma. I prefer Astro at the moment and I need to do things in Vue from time to time. But at the end of the day semantic HTML and CSS is what I really enjoy.
+I can work with the full Adobe Creative Suite. I have done print magazines in InDesign. Photoshop and Illustrator work. Animations and videos with After Effects and Premiere. But nowadays it is mostly digital designs I code the frontends of. Designs are more often than not done in Figma. I prefer Astro at the moment and I need to do things in Vue from time to time. But at the end of the day semantic HTML and CSS is what I really enjoy.
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
